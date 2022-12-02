@@ -1,12 +1,12 @@
-body{background: #ebdfb2;}
+body{background: #e0d3a8;}
 h1,h3, button{
     text-align: center;
 }
 .wrapper {
     text-align: center;
-    flex-direction: column;
+    border: 1mm ridge #000;
+    background-color: #ffffff;
     width: 500px;
     margin-left: 35%;
     margin-top: 55px;
-    color: #69634f;
 }

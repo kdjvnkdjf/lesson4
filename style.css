@@ -8,10 +8,5 @@ h1,h3, button{
     width: 500px;
     margin-left: 35%;
     margin-top: 55px;
-}
-.input {
-    width: 250px;
-    padding: 20px;
-    border-radius: 15px;
-    border: none;
+    color: #736c56;
 }

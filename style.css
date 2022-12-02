@@ -1,0 +1,14 @@
+body{background: #ebdfb2;}
+h1,h3, button{
+    text-align: center;
+}
+.wrapper {
+    text-align: center;
+    flex-direction: column;
+    width: 500px;
+    margin-left: 35%;
+    margin-top: 55px;
+    align-items: center;
+    justify-content: center;
+    color: #69634f;
+}
